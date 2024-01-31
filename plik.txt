@@ -1,2 +1,4 @@
 tekst z mastera
 teskt z 01 brancha
+
+teskt z 02 brancha
